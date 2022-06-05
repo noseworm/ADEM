@@ -11,7 +11,7 @@ https://github.com/julianser/hed-dlg-truncated
 https://arxiv.org/abs/1605.06069
 
 You will need to download the weights for the pretrained VHRED model before running the code. Once downloaded from the following link, place all the files in the `./vhred` folder.  
-https://drive.google.com/file/d/0B-nb1w_dNuMLY0Fad3N1YU9ZOU0/view?usp=sharing
+[https://drive.google.com/file/d/0B-nb1w_dNuMLY0Fad3N1YU9ZOU0/view?usp=sharing](https://drive.google.com/file/d/0B-nb1w_dNuMLY0Fad3N1YU9ZOU0/view?usp=sharing&resourcekey=0-ppk_UWYQCyUXsDvI-s5D7w)
 
 An example of running ADEM can be found in `interactive.py`:  
 `THEANO_FLAGS='device=gpu0,floatX=float32' python interactive.py`
